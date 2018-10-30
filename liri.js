@@ -1,8 +1,8 @@
-require("dotenv").config();
-var fs = require("fs");
-var keys = require("./keys.js");
-var request = require("request");
-var Spotify = require("node-spotify-api");
+require('dotenv').config();
+var fs = require('fs');
+var keys = require('./keys.js');
+var request = require('request');
+var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 
 var action = process.argv[2];
@@ -27,7 +27,7 @@ function switchCase() {
             break;
 
         default:
-            logIt("Invalid Instruction");
+            logIt("Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.");
             break;
 
     }
@@ -35,14 +35,14 @@ function switchCase() {
 
 function bandsInTown(parameter) {
     if (action === 'concert-this') {
-        var movieName = "";
+        var bandName = "";
         for (var x = 3; x < process.argv.length; x++) {
-            movieName += process.argv[x];
-        } console.log(movieName);
+            bandName += process.argv[x];
+        } console.log(bandName);
     } else {
-        movieName = parameter;
+        bandName = parameter;
     }
-    var queryURL = "https://rest.bandsintown.com/artists/" + movieName + "/events?app_id=9da298e4-a1bb-4504-924a-440ca32e6e02";
+    var queryURL = "https://rest.bandsintown.com/artists/" + bandName + "/events?app_id=9da298e4-a1bb-4504-924a-440ca32e6e02";
 
     request(queryURL, function (error, response, body) {
         if (!error && response.statusCode === 200) {
@@ -107,9 +107,9 @@ function movieInfo(parameter) {
 
     var queryURL = "http://www.omdbapi.com/?t=" + findMovie + "&y=&plot=short&apikey=15d4075a&";
 
-    request(queryURL, function (err, res, body) {
+    request(queryURL, function (error, response, body) {
         var bodyOf = JSON.parse(body);
-        if (!err && res.statusCode === 200) {
+        if (!error && response.statusCode === 200) {
             logIt("\n---------------------------------------\n");
             logIt("Title: " + bodyOf.Title);
             logIt("Release Year: " + bodyOf.Year);
@@ -156,7 +156,7 @@ function logIt(dataToLog) {
     console.log(dataToLog);
 
     fs.appendFile("log.txt", dataToLog + "\n", function (err) {
-        if (err) return logIt("Error logging datan to file: " + err);
+        if (err) return logIt("Error logging data to file: " + err);
     });
 }
 

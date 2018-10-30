@@ -1235,3 +1235,237 @@ Country: USA
 
 Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
 Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+
+---------------------------------------
+
+Artist: Plain White T's
+Song: Hey There Delilah
+Preview: https://p.scdn.co/mp3-preview/2824b10f1392dff3a3c95309a205d6f3e2ea56ad?cid=858aa5824a7144cea0915bca2e85c750
+Album: All That We Needed
+
+---------------------------------------
+
+
+---------------------------------------
+
+Artist: Nirvana
+Song: Smells Like Teen Spirit
+Preview: null
+Album: Nevermind (Remastered)
+
+---------------------------------------
+
+
+---------------------------------------
+
+Artist: YG
+Song: BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)
+Preview: null
+Album: STAY DANGEROUS
+
+---------------------------------------
+
+
+---------------------------------------
+
+Title: The Shawshank Redemption
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------
+
+Rotten Tomatoes Rating: 91%
+Release Year: 1994
+IMDB Rating: 9.3
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Release Year: 1994
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 91%
+Country: USA
+IMDB Rating: 9.3
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Language: English
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------------------
+
+
+---------------------------------------
+
+Title: Death Proof
+Release Year: 2007
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 65%
+Language: English
+Country: USA
+Plot: Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his "death proof" cars to execute his murderous plans.
+Actors: Kurt Russell, Zoë Bell, Rosario Dawson, Vanessa Ferlito
+
+---------------------------------------
+
+
+---------------------------------------
+
+Title: Natural Born Killers
+Release Year: 1994
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 47%
+Country: USA
+Language: English, Navajo, Japanese
+Plot: Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.
+Actors: Woody Harrelson, Juliette Lewis, Tom Sizemore, Rodney Dangerfield
+
+---------------------------------------
+
+
+---------------------------------------
+
+Title: Iron Man
+Release Year: 2008
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English, Persian, Urdu, Arabic, Hungarian
+Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
+
+---------------------------------------
+
+
+---------------------------------------
+
+Title: The Big Lebowski
+Release Year: 1998
+Language: English, German, Hebrew, Spanish
+Plot: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+
+---------------------------------------
+
+Rotten Tomatoes Rating: 82%
+Country: USA, UK
+IMDB Rating: 8.1
+Invalid Command, please try any of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+
+---------------------------------------
+
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------
+
+Language: English
+
+---------------------------------------
+
+Title: Spy Hard
+Release Year: 1996
+IMDB Rating: 5.3
+Rotten Tomatoes Rating: 8%
+Country: USA
+Language: English, French, Spanish
+Plot: Dick Steele, Agent WD-40 is assigned by his Director, to stop the evil General Rancor from destroying the world. WD-40 believed Rancor was dead and he teams up with the hot K.G.B. Agent Veronique Ukrinsky to find Rancor and save the world.
+Actors: Leslie Nielsen, Nicollette Sheridan, Charles Durning, Marcia Gay Harden
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/02/2018
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/03/2018
+Name: House of Blues Chicago
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/16/2018
+Name: The Pub Station
+City: Billings
+Country: MT
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/17/2018
+Name: Summit Music Hall
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 12/14/2018
+Name: Diamond Ballroom
+Country: WI
+Name: St. Croix Casino Turtle Lake Hotel
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+City: Turtle Lake
+City: Oklahoma City
+City: Dallas
+Country: TX
+Name: Gas Monkey Bar N' Grill
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 12/16/2018
+Name: Scout Bar
+Date: 12/15/2018
+Country: TX
+Country: OK
+
+---------------------------------------
+
+Country: United States
+Country: United States
+City: Houston
