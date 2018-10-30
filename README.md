@@ -3,9 +3,9 @@ Liri Bot Project
 
 Meet Liri - Your Node.JS Personal Assistant:
 
-- Movies
 - Concerts
 - Songs
+- Movies
 
 Use any of the follow line commands in the terminal to see the magic!
 
@@ -16,6 +16,7 @@ Use any of the follow line commands in the terminal to see the magic!
 
 Liri Uses the Following Technologies:
 
+- Bands In Town for Concerts
 - Spotify for Songs
 - OMDB for Movies
-- Bands In Town for Concerts
+
