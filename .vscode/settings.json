@@ -1,8 +1,0 @@
-{
-    "editor.fontSize": 16,
-    "editor.fontFamily": "Anonymous Pro",
-    "editor.tabSize": 2,
-    "files.autoSave": "afterDelay",
-    "editor.formatOnSave": true,
-    "workbench.colorTheme": "Atom One Dark"
-}
