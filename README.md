@@ -20,3 +20,8 @@ Liri Uses the Following Technologies:
 - Spotify for Songs
 - OMDB for Movies
 
+
+
+
+
+
