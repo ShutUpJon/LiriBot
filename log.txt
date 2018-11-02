@@ -110,3 +110,114 @@ Album: The Hits--Chapter One
 ---------------------------------------
 
 Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+
+---------------------------------------
+
+Date: 11/02/2018
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/03/2018
+Name: House of Blues Chicago
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/16/2018
+Name: The Pub Station
+City: Billings
+Country: MT
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/17/2018
+Name: Summit Music Hall
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 12/14/2018
+Name: Diamond Ballroom
+City: Oklahoma City
+Country: OK
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 12/15/2018
+Name: Gas Monkey Bar N' Grill
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 12/16/2018
+Name: Scout Bar
+City: Houston
+Country: TX
+Country: United States
+City: Turtle Lake
+Country: WI
+Name: St. Croix Casino Turtle Lake Hotel
+
+---------------------------------------
+
+
+---------------------------------------
+
+Artist: All Shall Perish
+Song: Wage Slaves
+Preview: https://p.scdn.co/mp3-preview/18165a993dff6a87838a46e6e1ef81d6c956af1a?cid=858aa5824a7144cea0915bca2e85c750
+Album: The Price Of Existence
+
+---------------------------------------
+
+
+---------------------------------------
+
+Title: The Big Lebowski
+Release Year: 1998
+Rotten Tomatoes Rating: 82%
+IMDB Rating: 8.1
+Country: USA, UK
+Plot: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+Language: English, German, Hebrew, Spanish
+
+---------------------------------------
+
+
+---------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=858aa5824a7144cea0915bca2e85c750
+Album: The Hits--Chapter One
+
+---------------------------------------
+
