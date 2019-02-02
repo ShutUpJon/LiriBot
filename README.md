@@ -1,7 +1,7 @@
 # LiriBot
 Liri Bot Project
 
-Meet Liri - Your Node.JS Personal Assistant:
+Meet Liri - Your Node.js Personal Assistant:
 
 - Concerts
 - Songs
